@@ -1,0 +1,1180 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<WebBox>
+  <Info>
+    <Created>2013-11-08T14:15:00</Created>
+    <Culture>en</Culture>
+    <UtcOffset>0</UtcOffset>
+  </Info>
+  <CurrentPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Total yield</Key>
+    <Mean>69016.94</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Number of grid connections</Key>
+    <Mean>4661</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Total yield</Key>
+    <Mean>8948.057</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Number of grid connections</Key>
+    <Mean>792</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Total yield</Key>
+    <Mean>8827.646</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Number of grid connections</Key>
+    <Mean>763</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Total yield</Key>
+    <Mean>8571.206</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Number of grid connections</Key>
+    <Mean>771</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Total yield</Key>
+    <Mean>8616.874</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Number of grid connections</Key>
+    <Mean>766</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Total yield</Key>
+    <Mean>5144.759</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Number of grid connections</Key>
+    <Mean>871</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Total yield</Key>
+    <Mean>28908.39</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Number of grid connections</Key>
+    <Mean>698</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Operating time</Key>
+    <Mean>49140.9</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Feed-in time</Key>
+    <Mean>47463</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Operating time</Key>
+    <Mean>8303.894</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Feed-in time</Key>
+    <Mean>8099.661</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Operating time</Key>
+    <Mean>8030.488</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Feed-in time</Key>
+    <Mean>7736.33</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Operating time</Key>
+    <Mean>8205.384</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Feed-in time</Key>
+    <Mean>7821.545</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Operating time</Key>
+    <Mean>7995.144</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Feed-in time</Key>
+    <Mean>7719.489</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Operating time</Key>
+    <Mean>8179.092</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Feed-in time</Key>
+    <Mean>7830.043</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Operating time</Key>
+    <Mean>8426.896</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Feed-in time</Key>
+    <Mean>8255.936</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Power</Key>
+    <Min>146</Min>
+    <Max>1091</Max>
+    <Mean>2354</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Power</Key>
+    <Min>286</Min>
+    <Max>303</Max>
+    <Mean>297</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Power</Key>
+    <Min>277</Min>
+    <Max>293</Max>
+    <Mean>288</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Power</Key>
+    <Min>263</Min>
+    <Max>280</Max>
+    <Mean>275</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Power</Key>
+    <Min>275</Min>
+    <Max>291</Max>
+    <Mean>285</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Power</Key>
+    <Min>146</Min>
+    <Max>161</Max>
+    <Mean>152</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Power</Key>
+    <Min>1019</Min>
+    <Max>1091</Max>
+    <Mean>1057</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Grid frequency</Key>
+    <Min>49.8</Min>
+    <Max>49.97</Max>
+    <Mean>49.9</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Grid frequency</Key>
+    <Min>49.81</Min>
+    <Max>49.97</Max>
+    <Mean>49.9</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Grid frequency</Key>
+    <Min>49.81</Min>
+    <Max>49.97</Max>
+    <Mean>49.9</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Grid frequency</Key>
+    <Min>49.81</Min>
+    <Max>49.97</Max>
+    <Mean>49.9</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Grid frequency</Key>
+    <Min>49.81</Min>
+    <Max>49.97</Max>
+    <Mean>49.9</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Grid frequency</Key>
+    <Min>49.81</Min>
+    <Max>49.97</Max>
+    <Mean>49.9</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Grid frequency</Key>
+    <Min>49.8</Min>
+    <Max>49.97</Max>
+    <Mean>49.9</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <CurrentPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Residual current</Key>
+    <Min>7</Min>
+    <Max>19</Max>
+    <Mean>12</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Insulation resistance</Key>
+    <Min>553.076</Min>
+    <Max>3000</Max>
+    <Mean>2283.607</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Residual current</Key>
+    <Min>13</Min>
+    <Max>13</Max>
+    <Mean>13</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Insulation resistance</Key>
+    <Min>3000</Min>
+    <Max>3000</Max>
+    <Mean>3000</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Residual current</Key>
+    <Min>13</Min>
+    <Max>13</Max>
+    <Mean>13</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Insulation resistance</Key>
+    <Min>1904.724</Min>
+    <Max>1904.724</Max>
+    <Mean>1904.724</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Residual current</Key>
+    <Min>13</Min>
+    <Max>13</Max>
+    <Mean>13</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Insulation resistance</Key>
+    <Min>2243.844</Min>
+    <Max>2243.844</Max>
+    <Mean>2243.844</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Residual current</Key>
+    <Min>12</Min>
+    <Max>12</Max>
+    <Mean>12</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Insulation resistance</Key>
+    <Min>3000</Min>
+    <Max>3000</Max>
+    <Mean>3000</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Residual current</Key>
+    <Min>7</Min>
+    <Max>7</Max>
+    <Mean>7</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Insulation resistance</Key>
+    <Min>3000</Min>
+    <Max>3000</Max>
+    <Mean>3000</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Residual current</Key>
+    <Min>19</Min>
+    <Max>19</Max>
+    <Mean>19</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Insulation resistance</Key>
+    <Min>553.076</Min>
+    <Max>553.076</Max>
+    <Mean>553.076</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:DC voltage input[A]</Key>
+    <Min>166.49</Min>
+    <Max>571.23</Max>
+    <Mean>325.11</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:DC voltage input[B]</Key>
+    <Min>254.32</Min>
+    <Max>501.34</Max>
+    <Mean>350.19</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:DC current input[A]</Key>
+    <Min>0.412000025146486</Min>
+    <Max>1.52600009313965</Max>
+    <Mean>0.708000043212893</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:DC current input[B]</Key>
+    <Min>0.417000025451662</Min>
+    <Max>0.537000032775881</Max>
+    <Mean>0.475000028991701</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:DC voltage input[A]</Key>
+    <Min>314.25</Min>
+    <Max>331.19</Max>
+    <Mean>323.43</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:DC voltage input[B]</Key>
+    <Min>310.35</Min>
+    <Max>335.66</Max>
+    <Mean>322.91</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:DC current input[A]</Key>
+    <Min>0.434000026489259</Min>
+    <Max>0.477000029113771</Max>
+    <Mean>0.466000028442385</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:DC current input[B]</Key>
+    <Min>0.417000025451662</Min>
+    <Max>0.450000027465822</Max>
+    <Mean>0.437000026672365</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:DC voltage input[A]</Key>
+    <Min>250.3</Min>
+    <Max>263.11</Max>
+    <Mean>256.96</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:DC voltage input[B]</Key>
+    <Min>346.49</Min>
+    <Max>359.3</Max>
+    <Mean>352.92</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:DC current input[A]</Key>
+    <Min>0.439000026794435</Min>
+    <Max>0.484000029541017</Max>
+    <Mean>0.466000028442385</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:DC current input[B]</Key>
+    <Min>0.46900002862549</Min>
+    <Max>0.511000031188967</Max>
+    <Mean>0.494000030151369</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:DC voltage input[A]</Key>
+    <Min>321.09</Min>
+    <Max>337.96</Max>
+    <Mean>328.57</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:DC voltage input[B]</Key>
+    <Min>254.32</Min>
+    <Max>271.27</Max>
+    <Mean>264.43</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:DC current input[A]</Key>
+    <Min>0.43600002661133</Min>
+    <Max>0.477000029113771</Max>
+    <Mean>0.461000028137209</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:DC current input[B]</Key>
+    <Min>0.43600002661133</Min>
+    <Max>0.477000029113771</Max>
+    <Mean>0.462000028198244</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:DC voltage input[A]</Key>
+    <Min>298.47</Min>
+    <Max>315.34</Max>
+    <Mean>305.78</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:DC voltage input[B]</Key>
+    <Min>308.76</Min>
+    <Max>329.73</Max>
+    <Mean>320.23</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:DC current input[A]</Key>
+    <Min>0.412000025146486</Min>
+    <Max>0.460000028076174</Max>
+    <Mean>0.445000027160646</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:DC current input[B]</Key>
+    <Min>0.433000026428224</Min>
+    <Max>0.482000029418947</Max>
+    <Mean>0.465000028381349</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:DC voltage input[A]</Key>
+    <Min>166.49</Min>
+    <Max>179.58</Max>
+    <Mean>173.74</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:DC current input[A]</Key>
+    <Min>0.867000052917484</Min>
+    <Max>0.979000059753422</Max>
+    <Mean>0.931000056823734</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:DC voltage input[A]</Key>
+    <Min>551.82</Min>
+    <Max>571.23</Max>
+    <Mean>562.21</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:DC voltage input[B]</Key>
+    <Min>482.25</Min>
+    <Max>501.34</Max>
+    <Mean>490.46</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:DC current input[A]</Key>
+    <Min>1.43100008734131</Min>
+    <Max>1.52600009313965</Max>
+    <Mean>1.48400009057618</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:DC current input[B]</Key>
+    <Min>0.504000030761721</Min>
+    <Max>0.537000032775881</Max>
+    <Mean>0.519000031677248</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Grid voltage phase L1</Key>
+    <Min>235.02</Min>
+    <Max>240.8</Max>
+    <Mean>239.53</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Grid voltage phase L2</Key>
+    <Min>236.4</Min>
+    <Max>240.36</Max>
+    <Mean>239.84</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Grid voltage phase L1</Key>
+    <Min>238.99</Min>
+    <Max>240.8</Max>
+    <Mean>240.42</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Grid voltage phase L1</Key>
+    <Min>238.08</Min>
+    <Max>239.87</Max>
+    <Mean>239.33</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Grid voltage phase L1</Key>
+    <Min>238.69</Min>
+    <Max>240.63</Max>
+    <Mean>240.24</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Grid voltage phase L1</Key>
+    <Min>237.6</Min>
+    <Max>239.95</Max>
+    <Mean>239.41</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Grid voltage phase L1</Key>
+    <Min>235.15</Min>
+    <Max>239.8</Max>
+    <Mean>239.11</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Grid voltage phase L1</Key>
+    <Min>235.02</Min>
+    <Max>239.41</Max>
+    <Mean>238.69</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Grid voltage phase L2</Key>
+    <Min>236.4</Min>
+    <Max>240.36</Max>
+    <Mean>239.84</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Grid voltage phase L3</Key>
+    <Min>238.06</Min>
+    <Max>241.83</Max>
+    <Mean>241.3</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Grid voltage phase L3</Key>
+    <Min>238.06</Min>
+    <Max>241.83</Max>
+    <Mean>241.3</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Grid current phase L1</Key>
+    <Min>0.613000037414553</Min>
+    <Max>1.52700009320069</Max>
+    <Mean>1.14800007006836</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Grid current phase L2</Key>
+    <Min>1424</Min>
+    <Max>1568</Max>
+    <Mean>1487</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Grid current phase L1</Key>
+    <Min>1.19000007263184</Min>
+    <Max>1.26400007714844</Max>
+    <Mean>1.23700007550049</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Grid current phase L1</Key>
+    <Min>1.16000007080079</Min>
+    <Max>1.22600007482911</Max>
+    <Mean>1.2030000734253</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Grid current phase L1</Key>
+    <Min>1.09700006695557</Min>
+    <Max>1.17100007147217</Max>
+    <Mean>1.14500006988526</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Grid current phase L1</Key>
+    <Min>1.15400007043457</Min>
+    <Max>1.22100007452393</Max>
+    <Mean>1.19300007281495</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Grid current phase L1</Key>
+    <Min>0.613000037414553</Min>
+    <Max>0.683000041687014</Max>
+    <Mean>0.638000038940432</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Grid current phase L1</Key>
+    <Min>1.40700008587647</Min>
+    <Max>1.52700009320069</Max>
+    <Mean>1.4760000900879</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Grid current phase L2</Key>
+    <Min>1.42400008691407</Min>
+    <Max>1.56800009570313</Max>
+    <Mean>1.48700009075928</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Grid current phase L3</Key>
+    <Min>1391</Min>
+    <Max>1486</Max>
+    <Mean>1448</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Grid current phase L3</Key>
+    <Min>1.39100008489991</Min>
+    <Max>1.48600009069825</Max>
+    <Mean>1.44800008837891</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:DC power input[A]</Key>
+    <Min>115</Min>
+    <Max>846</Max>
+    <Mean>1550</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:DC power input[B]</Key>
+    <Min>117</Min>
+    <Max>259</Max>
+    <Mean>838</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:DC power input[A]</Key>
+    <Min>143</Min>
+    <Max>153</Max>
+    <Mean>150</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:DC power input[B]</Key>
+    <Min>135</Min>
+    <Max>144</Max>
+    <Mean>141</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:DC power input[A]</Key>
+    <Min>115</Min>
+    <Max>121</Max>
+    <Mean>119</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:DC power input[B]</Key>
+    <Min>167</Min>
+    <Max>177</Max>
+    <Mean>174</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:DC power input[A]</Key>
+    <Min>145</Min>
+    <Max>154</Max>
+    <Mean>151</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:DC power input[B]</Key>
+    <Min>117</Min>
+    <Max>124</Max>
+    <Mean>121</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:DC power input[A]</Key>
+    <Min>129</Min>
+    <Max>138</Max>
+    <Mean>135</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:DC power input[B]</Key>
+    <Min>142</Min>
+    <Max>151</Max>
+    <Mean>148</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:DC power input[A]</Key>
+    <Min>154</Min>
+    <Max>164</Max>
+    <Mean>161</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:DC power input[A]</Key>
+    <Min>808</Min>
+    <Max>846</Max>
+    <Mean>834</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <MeanPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:DC power input[B]</Key>
+    <Min>246</Min>
+    <Max>259</Max>
+    <Mean>254</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </MeanPublic>
+  <CurrentPublic>
+    <Key>Hamilton House Sunny WebBox:155011903:Condition</Key>
+    <Mean>Ok</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Condition</Key>
+    <Mean>Ok</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Recommended action</Key>
+    <Mean>none</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Condition</Key>
+    <Mean>Ok</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Recommended action</Key>
+    <Mean>none</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Condition</Key>
+    <Mean>Ok</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Recommended action</Key>
+    <Mean>none</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Condition</Key>
+    <Mean>Ok</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Recommended action</Key>
+    <Mean>none</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Condition</Key>
+    <Mean>Ok</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Recommended action</Key>
+    <Mean>none</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Condition</Key>
+    <Mean>Ok</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Recommended action</Key>
+    <Mean>none</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Message</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537417 (SN: 2100537417):2100537417:Fault correction measure</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Message</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537450 (SN: 2100537450):2100537450:Fault correction measure</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Message</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537798 (SN: 2100537798):2100537798:Fault correction measure</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Message</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100537914 (SN: 2100537914):2100537914:Fault correction measure</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Message</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2100522607 (SN: 2100522607):2100522607:Fault correction measure</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Message</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+  <CurrentPublic>
+    <Key>SN: 2110240464 (SN: 2110240464):2110240464:Fault correction measure</Key>
+    <Mean>-------</Mean>
+    <Base>1</Base>
+    <Period>300</Period>
+    <Timestamp>2013-11-08T14:15:00</Timestamp>
+  </CurrentPublic>
+</WebBox>
